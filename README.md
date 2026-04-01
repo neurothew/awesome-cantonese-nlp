@@ -17,6 +17,7 @@
 | 早期漢語方言文獻資料庫<br>Database of Early Chinese Dialects | | | <http://database.shss.ust.hk/5dialects/index.html> |
 | 早期粵語聖經資料庫<br>The Early Cantonese Bible Database | | | <https://corpus.eduhk.hk/cantobible/> |
 | LIHKG Scraper | | | [ayaka14732/lihkg-scraper](https://github.com/ayaka14732/lihkg-scraper) |
+| PolyU Corpus of Spoken Chinese | | | <http://wongtaksum.no-ip.info:81/corpus.htm> | 
 
 ## 工具 Tools
 
