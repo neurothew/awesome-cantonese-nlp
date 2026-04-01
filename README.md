@@ -26,7 +26,7 @@ This list is forked from https://github.com/CanCLID/awesome-cantonese-nlp.
 
 ## 未分類資源 Resources to be organized
 
-將所有見到嘅 Database/Dataset/Corpus 擺左落嚟先，未知係咪可以用
+將所有見到嘅 Blog/Database/Dataset/Corpus 擺左落嚟先，未知係咪可以用
 
 | 名 Name | 描述 Description | 許可證 License | 連結 Link
 | - | - | - | - |
@@ -42,6 +42,9 @@ CUHK 60th Anniversary Oral History Project | Video interview | | https://dsproje
 | PyCantonese | Cantonese Linguistics and NLP in Python | MIT | [jacksonlee/pycantonese](https://github.com/jacksonllee/pycantonese) |
 | cantoseg | Cantonese segmentation tool 粵語分詞工具 | MIT | [ayaka14732/cantoseg](https://github.com/ayaka14732/cantoseg)
 | cantonese-phonotactic-features | Cantonese phonotactic features derived from HKCanCor | CC-BY-4.0 | [neurothew/cantonese-phonotactic-features](https://github.com/neurothew/cantonese-phonotactic-features) 
+| | Tutorial on training Cantonese MFA |  | https://chenzixu.rbind.io/resources/3asr/sr3/ |
+| HKCantonese_models | Pre-trained Cantonese acoustic models from Common Voice Corpus | MIT | https://github.com/chenchenzi/HKCantonese_models
+
 
 ## API
 
