@@ -1,5 +1,7 @@
 # awesome-cantonese-nlp
 
+This list is forked from https://github.com/CanCLID/awesome-cantonese-nlp.
+
 本倉庫收集粵語 NLP 資源，倉庫內容：
 - Facebook [政府新聞網 (govnews.hk)](https://www.facebook.com/govnews.hk/) (Latest: 2020-01-07 20:22:31 PST, crawled with [rugantio/fbcrawl](https://github.com/rugantio/fbcrawl)).
 
@@ -20,7 +22,7 @@
 | PolyU Corpus of Spoken Chinese | | | <http://wongtaksum.no-ip.info:81/corpus.htm> <br/> https://chaaklau.github.io/polyu_corpus/ | 
 | HKCAC: The Hong Kong Cantonese Adult Language Corpus | | | Leung, M.-T., & Law, S.-P. (2001). HKCAC: The Hong Kong Cantonese Adult Language Corpus. International Journal of Corpus Linguistics, 6(2), 305–325. https://doi.org/10.1075/ijcl.6.2.06leu
 | CantoMap: a Hong Kong Cantonese MapTask Corpus | | | Winterstein, G., Tang, C., & Lai, R. (2020). CantoMap: A Hong Kong Cantonese MapTask Corpus. In N. Calzolari, F. Béchet, P. Blache, K. Choukri, C. Cieri, T. Declerck, S. Goggi, H. Isahara, B. Maegaard, J. Mariani, H. Mazo, A. Moreno, J. Odijk, & S. Piperidis (Eds.), Proceedings of the Twelfth Language Resources and Evaluation Conference (pp. 2906–2913). European Language Resources Association. https://aclanthology.org/2020.lrec-1.355/
-| 張悦楷講古語音數據集 | Spoken with transcription | CC0 | https://huggingface.co/datasets/CanCLID/zoengjyutgaai
+| 張悦楷講古語音數據集 | Spoken with transcription | CC0 | https://canclid.github.io/zoengjyutgaai/
 
 ## 未分類資源 Resources to be organized
 
@@ -49,6 +51,7 @@ CUHK 60th Anniversary Oral History Project | Video interview | | https://dsproje
 
 ## 實用連結 Useful links
 
+- [2026 年粵語 ASR 模型橫向評測 by CanCLID](https://github.com/CanCLID/asr-bench)
 - [粵文維基百科 Dump](https://dumps.wikimedia.org/zh_yuewiki/)
 - 粵語/廣東話參考資料 Reference Materials for Yue / Cantonese： [wordshk/yue_references](https://github.com/wordshk/yue_references)
 - 粵語 NLP 討論谷：<https://t.me/cantonesenlp>
