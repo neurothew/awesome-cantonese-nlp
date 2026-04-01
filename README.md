@@ -5,7 +5,7 @@
 
 ## 語料庫 Corpus
 
-| 名 Name | 大細 Size | 許可證 Licence | 連結 Link |
+| 名 Name | 描述 Description | 許可證 Licence | 連結 Link |
 | - | - | - | - |
 | 香港粵語語料庫<br/>Hong Kong Cantonese Corpus (HKCanCor) | | | [Hong Kong Cantonese Corpus (HKCanCor) 香港粵語語料庫](http://compling.hss.ntu.edu.sg/hkcancor/) </br>[fcbond/hkcancor](https://github.com/fcbond/hkcancor) |
 | 馬來西亞粵語語料庫<br/>Malaysia Cantonese Corpus (MYCanCor) | | | [liesenf/MYCanCor](https://github.com/liesenf/MYCanCor) |
@@ -17,15 +17,29 @@
 | 早期漢語方言文獻資料庫<br>Database of Early Chinese Dialects | | | <http://database.shss.ust.hk/5dialects/index.html> |
 | 早期粵語聖經資料庫<br>The Early Cantonese Bible Database | | | <https://corpus.eduhk.hk/cantobible/> |
 | LIHKG Scraper | | | [ayaka14732/lihkg-scraper](https://github.com/ayaka14732/lihkg-scraper) |
-| PolyU Corpus of Spoken Chinese | | | <http://wongtaksum.no-ip.info:81/corpus.htm> | 
+| PolyU Corpus of Spoken Chinese | | | <http://wongtaksum.no-ip.info:81/corpus.htm> <br/> https://chaaklau.github.io/polyu_corpus/ | 
+| HKCAC: The Hong Kong Cantonese Adult Language Corpus | | | Leung, M.-T., & Law, S.-P. (2001). HKCAC: The Hong Kong Cantonese Adult Language Corpus. International Journal of Corpus Linguistics, 6(2), 305–325. https://doi.org/10.1075/ijcl.6.2.06leu
+| CantoMap: a Hong Kong Cantonese MapTask Corpus | | | Winterstein, G., Tang, C., & Lai, R. (2020). CantoMap: A Hong Kong Cantonese MapTask Corpus. In N. Calzolari, F. Béchet, P. Blache, K. Choukri, C. Cieri, T. Declerck, S. Goggi, H. Isahara, B. Maegaard, J. Mariani, H. Mazo, A. Moreno, J. Odijk, & S. Piperidis (Eds.), Proceedings of the Twelfth Language Resources and Evaluation Conference (pp. 2906–2913). European Language Resources Association. https://aclanthology.org/2020.lrec-1.355/
+| 張悦楷講古語音數據集 | Spoken with transcription | CC0 | https://huggingface.co/datasets/CanCLID/zoengjyutgaai
 
-## 工具 Tools
+## 未分類資源 Resources to be organized
+
+將所有見到嘅 Database/Dataset/Corpus 擺左落嚟先，未知係咪可以用
+
+| 名 Name | 描述 Description | 許可證 License | 連結 Link
+| - | - | - | - |
+CUHK 60th Anniversary Oral History Project | Video interview | | https://dsprojects.lib.cuhk.edu.hk/en/projects/cuhk-60th-oralhistory/cantonese-transcription/ | 
+
+
+## 工具 Tools 
 
 | 名 Name | 描述 Description | 許可證 License | 連結 Link |
 | - | - | - | - |
 | Cifu | A frequency lexicon for Hong Kong Cantonese | GPL-3.0 | [gwinterstein/Cifu](https://github.com/gwinterstein/Cifu)            |
 | ToJyutping | 粵語拼音自動標註工具 Cantonese Pronunciation Automatic Labeling Tool | CC-BY-4.0 License | [ToJyutping](https://github.com/CanCLID/ToJyutping) |
 | PyCantonese | Cantonese Linguistics and NLP in Python | MIT | [jacksonlee/pycantonese](https://github.com/jacksonllee/pycantonese) |
+| cantoseg | Cantonese segmentation tool 粵語分詞工具 | MIT | [ayaka14732/cantoseg](https://github.com/ayaka14732/cantoseg)
+| cantonese-phonotactic-features | Cantonese phonotactic features derived from HKCanCor | CC-BY-4.0 | [neurothew/cantonese-phonotactic-features](https://github.com/neurothew/cantonese-phonotactic-features) 
 
 ## API
 
